@@ -1,13 +1,11 @@
 # Playwright Express
 
-Esse projeto faz parte de um curso sobre automação de testes E2E com Playwright, do Fernando Papito.
-Finalizado em 26 de Outubro de 2023.
-Você pode adquirir o curso [aqui.](https://playwright-zombie.qaxperience.com/)
+This project is part of a course on E2E test automation with Playwright, by Fernando Papito.
 
 ![Screenshot from 2023-10-29 02-18-30](https://github.com/amandastecz/playwright-express/assets/26572310/8d7f36de-df5f-442f-9127-e3952d4024ae)
 
 
-### Comandos úteis:
+### Useful commands:
 
   npx playwright test
     Runs the end-to-end tests.
@@ -24,4 +22,4 @@ Você pode adquirir o curso [aqui.](https://playwright-zombie.qaxperience.com/)
   npx playwright test --debug
     Runs the tests in debug mode.
     
-Visite https://playwright.dev/docs/intro para mais informações ✨
+Visit https://playwright-zombie.qaxperience.com/ for more information ✨
