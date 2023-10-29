@@ -1,0 +1,17 @@
+{
+  "name": "express-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9",
+    "dotenv": "^16.3.1"
+  }
+}
